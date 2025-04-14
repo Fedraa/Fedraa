@@ -136,6 +136,7 @@
       <ul>
         <li>Adobe Lightroom</li>
         <li>Adobe Premiere Pro</li>
+        <li>Canva</li>
         <li>Figma</li>
       </ul>
     </aside>
